@@ -1,0 +1,10 @@
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\bin\Release\CaptureImageTool.dll
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\bin\Release\CaptureImageTool.pdb
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\ResolveAssemblyReference.cache
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.ColorSelector.resources
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\CaptureImageTool.csproj.GenerateResource.Cache
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\CaptureImageTool.dll
+F:\Jd_Program\CaptureImageToolDemo\CaptureImageTool\obj\Release\CaptureImageTool.pdb

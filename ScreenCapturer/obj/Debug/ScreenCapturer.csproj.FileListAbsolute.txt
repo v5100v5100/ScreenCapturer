@@ -1,0 +1,10 @@
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\bin\Debug\ScreenCapturer.exe
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\bin\Debug\ScreenCapturer.pdb
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\obj\Debug\ScreenCapturer.csprojResolveAssemblyReference.cache
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\obj\Debug\ScreenCapturer.MainForm.resources
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\obj\Debug\ScreenCapturer.Properties.Resources.resources
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\obj\Debug\ScreenCapturer.csproj.GenerateResource.Cache
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\obj\Debug\ScreenCapturer.exe
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\obj\Debug\ScreenCapturer.pdb
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\bin\Debug\CaptureImageTool.dll
+C:\Dev\workspace_C#\ScreenCapturer\ScreenCapturer\bin\Debug\CaptureImageTool.pdb
